@@ -1,0 +1,37 @@
+ 										    PROJECT	
+										===============
+	\\FOR DEVLOPING A PROJECT THERE ARE 10 STEPS .
+
+	1.Define a project scope .
+		A. Clearly outline propose and goals of your project .
+		B. Determine what you want to archive and identify your target audience .
+
+	SCOPE AND GOAL FOR TODAYS PROJECT:-a. to complete the entire concept  of HTML .
+					   b. To design our profectional portfolio 
+					   c. To design a responsive HTML project to make our resume strong .
+					   d. Efficiency for clearing the technical interview  round .
+	2.plan your project structure .
+		A. Map out the structure of your project , detailing the web pages you need and how the will interconnect .
+		B. Structuring our website:-1.home
+					    2.about
+					    3.education
+					    4.skill  
+					    5.project
+					    6.achievements
+					    7.contact me 
+ 
+	3.Design the layout .
+
+	4.Write the HTML code .
+ 
+	5.Add some styling .
+  
+	6.Make your project  responsive .
+ 
+	7.Optimise for accessibility .
+
+	8.Test your project .
+
+	9.Deploy  your project .
+
+	10.Collect feedback .
